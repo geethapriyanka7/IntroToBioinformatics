@@ -1,5 +1,5 @@
 #!/bin/bash
-# I am running a workflow to map working DNA sequence data to variant calls
+# workflow to map working DNA sequence data  and obtain variant calling format
 # Giving the required arguments and options
 realign=0
 index=0
